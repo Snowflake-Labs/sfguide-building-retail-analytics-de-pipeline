@@ -1,0 +1,9 @@
+Temp
+.env
+.venv
+.DS_Store
+__pycache__/
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.qodo

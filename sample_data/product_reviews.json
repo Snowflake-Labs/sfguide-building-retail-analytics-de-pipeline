@@ -1,0 +1,5502 @@
+[
+  {
+    "review_id": "REV0001",
+    "product_id": "PROD0001",
+    "customer_id": "CUST0016",
+    "rating": 3.5,
+    "title": "Fantastic quality",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-28",
+    "verified_purchase": true,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0002",
+    "product_id": "PROD0001",
+    "customer_id": "CUST0016",
+    "rating": 4.9,
+    "title": "Needs improvement",
+    "content": "Not bad, but could be better.",
+    "date": "2025-04-14",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0003",
+    "product_id": "PROD0001",
+    "customer_id": "CUST0017",
+    "rating": 3.6,
+    "title": "Better than expected",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-02-11",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0004",
+    "product_id": "PROD0001",
+    "customer_id": "CUST0001",
+    "rating": 4.7,
+    "title": "Disappointed",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-02-11",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0005",
+    "product_id": "PROD0002",
+    "customer_id": "CUST0011",
+    "rating": 4.6,
+    "title": "Works as expected",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-17",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0006",
+    "product_id": "PROD0002",
+    "customer_id": "CUST0006",
+    "rating": 4.6,
+    "title": "Great product!",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-02-17",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0007",
+    "product_id": "PROD0002",
+    "customer_id": "CUST0020",
+    "rating": 3.6,
+    "title": "Would not recommend",
+    "content": "Not bad, but could be better.",
+    "date": "2025-03-22",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0008",
+    "product_id": "PROD0002",
+    "customer_id": "CUST0023",
+    "rating": 3.7,
+    "title": "Good but could be better",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-05-09",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0009",
+    "product_id": "PROD0003",
+    "customer_id": "CUST0019",
+    "rating": 4.5,
+    "title": "Worth every penny",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-02-27",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0010",
+    "product_id": "PROD0003",
+    "customer_id": "CUST0008",
+    "rating": 4.2,
+    "title": "Some issues",
+    "content": "Exactly what I needed.",
+    "date": "2025-05-03",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0011",
+    "product_id": "PROD0003",
+    "customer_id": "CUST0004",
+    "rating": 4.4,
+    "title": "Solid purchase",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-03-16",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0012",
+    "product_id": "PROD0003",
+    "customer_id": "CUST0022",
+    "rating": 4.7,
+    "title": "Mixed feelings",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-02-20",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0013",
+    "product_id": "PROD0004",
+    "customer_id": "CUST0030",
+    "rating": 4.1,
+    "title": "Works as expected",
+    "content": "Not bad, but could be better.",
+    "date": "2025-04-16",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 5.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0014",
+    "product_id": "PROD0004",
+    "customer_id": "CUST0007",
+    "rating": 3.5,
+    "title": "Great product!",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-27",
+    "verified_purchase": false,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0015",
+    "product_id": "PROD0004",
+    "customer_id": "CUST0005",
+    "rating": 4.3,
+    "title": "Solid purchase",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-05-05",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0016",
+    "product_id": "PROD0004",
+    "customer_id": "CUST0029",
+    "rating": 4.8,
+    "title": "Fantastic quality",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-02-28",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0017",
+    "product_id": "PROD0005",
+    "customer_id": "CUST0025",
+    "rating": 4.7,
+    "title": "Perfect for my needs",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-07",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0018",
+    "product_id": "PROD0005",
+    "customer_id": "CUST0003",
+    "rating": 4.3,
+    "title": "Not worth the price",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-02-22",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0019",
+    "product_id": "PROD0005",
+    "customer_id": "CUST0025",
+    "rating": 4.2,
+    "title": "Works as expected",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-22",
+    "verified_purchase": false,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0020",
+    "product_id": "PROD0005",
+    "customer_id": "CUST0015",
+    "rating": 4.6,
+    "title": "Could be improved",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-02-20",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0021",
+    "product_id": "PROD0006",
+    "customer_id": "CUST0014",
+    "rating": 4.2,
+    "title": "Not worth the price",
+    "content": "Could be better in some aspects.",
+    "date": "2025-02-15",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0022",
+    "product_id": "PROD0006",
+    "customer_id": "CUST0024",
+    "rating": 4.9,
+    "title": "Exceeded expectations",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 5.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0023",
+    "product_id": "PROD0006",
+    "customer_id": "CUST0014",
+    "rating": 4.4,
+    "title": "Some issues",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-03-08",
+    "verified_purchase": false,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0024",
+    "product_id": "PROD0006",
+    "customer_id": "CUST0027",
+    "rating": 3.8,
+    "title": "Needs improvement",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-18",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0025",
+    "product_id": "PROD0007",
+    "customer_id": "CUST0009",
+    "rating": 4.8,
+    "title": "Needs improvement",
+    "content": "Great value for money.",
+    "date": "2025-04-28",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0026",
+    "product_id": "PROD0007",
+    "customer_id": "CUST0035",
+    "rating": 3.9,
+    "title": "Amazing features",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-08",
+    "verified_purchase": false,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0027",
+    "product_id": "PROD0007",
+    "customer_id": "CUST0041",
+    "rating": 4.7,
+    "title": "Could be improved",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-25",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0028",
+    "product_id": "PROD0007",
+    "customer_id": "CUST0033",
+    "rating": 5.0,
+    "title": "Exceeded expectations",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-02-14",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0029",
+    "product_id": "PROD0008",
+    "customer_id": "CUST0026",
+    "rating": 3.6,
+    "title": "Great product!",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-30",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0030",
+    "product_id": "PROD0008",
+    "customer_id": "CUST0039",
+    "rating": 4.5,
+    "title": "Needs improvement",
+    "content": "Some issues with durability.",
+    "date": "2025-04-10",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0031",
+    "product_id": "PROD0008",
+    "customer_id": "CUST0046",
+    "rating": 4.5,
+    "title": "Good but could be better",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-02-14",
+    "verified_purchase": false,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0032",
+    "product_id": "PROD0008",
+    "customer_id": "CUST0002",
+    "rating": 4.8,
+    "title": "Needs improvement",
+    "content": "Could be better in some aspects.",
+    "date": "2025-03-24",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0033",
+    "product_id": "PROD0009",
+    "customer_id": "CUST0048",
+    "rating": 4.2,
+    "title": "Great product!",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0034",
+    "product_id": "PROD0009",
+    "customer_id": "CUST0018",
+    "rating": 5.0,
+    "title": "Great product!",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-03-19",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0035",
+    "product_id": "PROD0009",
+    "customer_id": "CUST0048",
+    "rating": 4.6,
+    "title": "Could be improved",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-10",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0036",
+    "product_id": "PROD0009",
+    "customer_id": "CUST0018",
+    "rating": 4.1,
+    "title": "Mixed feelings",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0037",
+    "product_id": "PROD0010",
+    "customer_id": "CUST0047",
+    "rating": 4.1,
+    "title": "Amazing features",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-03-13",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0038",
+    "product_id": "PROD0010",
+    "customer_id": "CUST0047",
+    "rating": 3.9,
+    "title": "Best purchase ever",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-05-03",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0039",
+    "product_id": "PROD0010",
+    "customer_id": "CUST0021",
+    "rating": 4.3,
+    "title": "Solid purchase",
+    "content": "The build quality is exceptional.",
+    "date": "2025-03-12",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0040",
+    "product_id": "PROD0010",
+    "customer_id": "CUST0038",
+    "rating": 4.8,
+    "title": "Could be improved",
+    "content": "Could be better in some aspects.",
+    "date": "2025-04-13",
+    "verified_purchase": false,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0041",
+    "product_id": "PROD0011",
+    "customer_id": "CUST0013",
+    "rating": 4.8,
+    "title": "Just okay",
+    "content": "Disappointed with the performance.",
+    "date": "2025-04-22",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0042",
+    "product_id": "PROD0011",
+    "customer_id": "CUST0049",
+    "rating": 4.5,
+    "title": "Excellent value",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-02-14",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0043",
+    "product_id": "PROD0011",
+    "customer_id": "CUST0049",
+    "rating": 4.7,
+    "title": "Not worth the price",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-05",
+    "verified_purchase": false,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0044",
+    "product_id": "PROD0011",
+    "customer_id": "CUST0050",
+    "rating": 3.8,
+    "title": "Works as expected",
+    "content": "Could be better in some aspects.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0045",
+    "product_id": "PROD0012",
+    "customer_id": "CUST0010",
+    "rating": 4.1,
+    "title": "Disappointed",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-02-20",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0046",
+    "product_id": "PROD0012",
+    "customer_id": "CUST0012",
+    "rating": 4.7,
+    "title": "Just okay",
+    "content": "Disappointed with the performance.",
+    "date": "2025-04-16",
+    "verified_purchase": true,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0047",
+    "product_id": "PROD0012",
+    "customer_id": "CUST0055",
+    "rating": 3.8,
+    "title": "Disappointed",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0048",
+    "product_id": "PROD0012",
+    "customer_id": "CUST0031",
+    "rating": 3.7,
+    "title": "Best purchase ever",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-02-24",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0049",
+    "product_id": "PROD0013",
+    "customer_id": "CUST0034",
+    "rating": 4.6,
+    "title": "Amazing features",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-02-14",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0050",
+    "product_id": "PROD0013",
+    "customer_id": "CUST0034",
+    "rating": 4.6,
+    "title": "Perfect for my needs",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-02-11",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0051",
+    "product_id": "PROD0013",
+    "customer_id": "CUST0062",
+    "rating": 4.6,
+    "title": "Works as expected",
+    "content": "Exactly what I needed.",
+    "date": "2025-04-25",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0052",
+    "product_id": "PROD0013",
+    "customer_id": "CUST0061",
+    "rating": 4.8,
+    "title": "Mixed feelings",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-24",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0053",
+    "product_id": "PROD0014",
+    "customer_id": "CUST0037",
+    "rating": 4.3,
+    "title": "Good but could be better",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-22",
+    "verified_purchase": false,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0054",
+    "product_id": "PROD0014",
+    "customer_id": "CUST0043",
+    "rating": 4.4,
+    "title": "Some issues",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-07",
+    "verified_purchase": false,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0055",
+    "product_id": "PROD0014",
+    "customer_id": "CUST0043",
+    "rating": 5.0,
+    "title": "Excellent value",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-05-09",
+    "verified_purchase": false,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0056",
+    "product_id": "PROD0014",
+    "customer_id": "CUST0032",
+    "rating": 4.8,
+    "title": "Great product!",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-04-03",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 5.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0057",
+    "product_id": "PROD0015",
+    "customer_id": "CUST0042",
+    "rating": 3.6,
+    "title": "Mixed feelings",
+    "content": "Great value for money.",
+    "date": "2025-03-28",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0058",
+    "product_id": "PROD0015",
+    "customer_id": "CUST0067",
+    "rating": 4.5,
+    "title": "Perfect for my needs",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-02-08",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0059",
+    "product_id": "PROD0015",
+    "customer_id": "CUST0042",
+    "rating": 4.7,
+    "title": "Good but could be better",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-02-14",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0060",
+    "product_id": "PROD0015",
+    "customer_id": "CUST0067",
+    "rating": 3.9,
+    "title": "Would not recommend",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-04-13",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0061",
+    "product_id": "PROD0016",
+    "customer_id": "CUST0058",
+    "rating": 3.6,
+    "title": "Good but could be better",
+    "content": "Great value for money.",
+    "date": "2025-04-23",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0062",
+    "product_id": "PROD0016",
+    "customer_id": "CUST0070",
+    "rating": 5.0,
+    "title": "Fantastic quality",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-07",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0063",
+    "product_id": "PROD0016",
+    "customer_id": "CUST0059",
+    "rating": 4.5,
+    "title": "Best purchase ever",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-03-15",
+    "verified_purchase": false,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 5.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0064",
+    "product_id": "PROD0016",
+    "customer_id": "CUST0054",
+    "rating": 3.7,
+    "title": "Disappointed",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-07",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0065",
+    "product_id": "PROD0017",
+    "customer_id": "CUST0051",
+    "rating": 3.7,
+    "title": "Better than expected",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-04-09",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0066",
+    "product_id": "PROD0017",
+    "customer_id": "CUST0074",
+    "rating": 4.4,
+    "title": "Disappointed",
+    "content": "Great value for money.",
+    "date": "2025-03-01",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0067",
+    "product_id": "PROD0017",
+    "customer_id": "CUST0075",
+    "rating": 4.8,
+    "title": "Needs improvement",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-18",
+    "verified_purchase": false,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0068",
+    "product_id": "PROD0017",
+    "customer_id": "CUST0066",
+    "rating": 3.9,
+    "title": "Exceeded expectations",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-10",
+    "verified_purchase": false,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0069",
+    "product_id": "PROD0018",
+    "customer_id": "CUST0040",
+    "rating": 4.3,
+    "title": "Exceeded expectations",
+    "content": "Exactly what I needed.",
+    "date": "2025-02-08",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0070",
+    "product_id": "PROD0018",
+    "customer_id": "CUST0060",
+    "rating": 4.5,
+    "title": "Great product!",
+    "content": "Not bad, but could be better.",
+    "date": "2025-02-19",
+    "verified_purchase": false,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0071",
+    "product_id": "PROD0018",
+    "customer_id": "CUST0065",
+    "rating": 4.2,
+    "title": "Disappointed",
+    "content": "Exactly what I needed.",
+    "date": "2025-04-06",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0072",
+    "product_id": "PROD0018",
+    "customer_id": "CUST0064",
+    "rating": 4.7,
+    "title": "Solid purchase",
+    "content": "Great value for money.",
+    "date": "2025-02-16",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0073",
+    "product_id": "PROD0019",
+    "customer_id": "CUST0073",
+    "rating": 3.8,
+    "title": "Good but could be better",
+    "content": "The build quality is exceptional.",
+    "date": "2025-03-10",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0074",
+    "product_id": "PROD0019",
+    "customer_id": "CUST0080",
+    "rating": 4.1,
+    "title": "Disappointed",
+    "content": "The build quality is exceptional.",
+    "date": "2025-02-09",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0075",
+    "product_id": "PROD0019",
+    "customer_id": "CUST0057",
+    "rating": 4.9,
+    "title": "Good but could be better",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-04-20",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0076",
+    "product_id": "PROD0019",
+    "customer_id": "CUST0072",
+    "rating": 4.2,
+    "title": "Not worth the price",
+    "content": "Could be better in some aspects.",
+    "date": "2025-04-03",
+    "verified_purchase": false,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0077",
+    "product_id": "PROD0020",
+    "customer_id": "CUST0069",
+    "rating": 3.9,
+    "title": "Better than expected",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-02-22",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0078",
+    "product_id": "PROD0020",
+    "customer_id": "CUST0069",
+    "rating": 4.5,
+    "title": "Good but could be better",
+    "content": "Disappointed with the performance.",
+    "date": "2025-02-27",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0079",
+    "product_id": "PROD0020",
+    "customer_id": "CUST0069",
+    "rating": 4.5,
+    "title": "Not worth the price",
+    "content": "Disappointed with the performance.",
+    "date": "2025-04-22",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0080",
+    "product_id": "PROD0020",
+    "customer_id": "CUST0069",
+    "rating": 4.9,
+    "title": "Works as expected",
+    "content": "Great value for money.",
+    "date": "2025-04-08",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0081",
+    "product_id": "PROD0021",
+    "customer_id": "CUST0076",
+    "rating": 4.8,
+    "title": "Great product!",
+    "content": "Some issues with durability.",
+    "date": "2025-02-28",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0082",
+    "product_id": "PROD0021",
+    "customer_id": "CUST0063",
+    "rating": 4.3,
+    "title": "Best purchase ever",
+    "content": "Great value for money.",
+    "date": "2025-04-19",
+    "verified_purchase": false,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0083",
+    "product_id": "PROD0021",
+    "customer_id": "CUST0063",
+    "rating": 4.7,
+    "title": "Solid purchase",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-14",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0084",
+    "product_id": "PROD0021",
+    "customer_id": "CUST0053",
+    "rating": 4.2,
+    "title": "Needs improvement",
+    "content": "Some issues with durability.",
+    "date": "2025-04-04",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0085",
+    "product_id": "PROD0022",
+    "customer_id": "CUST0089",
+    "rating": 4.6,
+    "title": "Best purchase ever",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-04-26",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0086",
+    "product_id": "PROD0022",
+    "customer_id": "CUST0056",
+    "rating": 4.4,
+    "title": "Would not recommend",
+    "content": "Could be better in some aspects.",
+    "date": "2025-03-02",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0087",
+    "product_id": "PROD0022",
+    "customer_id": "CUST0082",
+    "rating": 3.7,
+    "title": "Disappointed",
+    "content": "Not bad, but could be better.",
+    "date": "2025-02-25",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0088",
+    "product_id": "PROD0022",
+    "customer_id": "CUST0082",
+    "rating": 4.8,
+    "title": "Some issues",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-02-14",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0089",
+    "product_id": "PROD0023",
+    "customer_id": "CUST0079",
+    "rating": 4.1,
+    "title": "Some issues",
+    "content": "Not bad, but could be better.",
+    "date": "2025-03-22",
+    "verified_purchase": false,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0090",
+    "product_id": "PROD0023",
+    "customer_id": "CUST0068",
+    "rating": 4.8,
+    "title": "Needs improvement",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-15",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0091",
+    "product_id": "PROD0023",
+    "customer_id": "CUST0084",
+    "rating": 4.4,
+    "title": "Disappointed",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-09",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0092",
+    "product_id": "PROD0023",
+    "customer_id": "CUST0052",
+    "rating": 4.9,
+    "title": "Perfect for my needs",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-21",
+    "verified_purchase": false,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0093",
+    "product_id": "PROD0024",
+    "customer_id": "CUST0045",
+    "rating": 4.9,
+    "title": "Fantastic quality",
+    "content": "Great value for money.",
+    "date": "2025-03-14",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0094",
+    "product_id": "PROD0024",
+    "customer_id": "CUST0091",
+    "rating": 3.6,
+    "title": "Could be improved",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-05-09",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0095",
+    "product_id": "PROD0024",
+    "customer_id": "CUST0078",
+    "rating": 3.7,
+    "title": "Good but could be better",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-03-14",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0096",
+    "product_id": "PROD0024",
+    "customer_id": "CUST0091",
+    "rating": 3.7,
+    "title": "Just okay",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-17",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0097",
+    "product_id": "PROD0025",
+    "customer_id": "CUST0036",
+    "rating": 3.6,
+    "title": "Not worth the price",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-04-30",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0098",
+    "product_id": "PROD0025",
+    "customer_id": "CUST0071",
+    "rating": 4.1,
+    "title": "Needs improvement",
+    "content": "Some issues with durability.",
+    "date": "2025-02-08",
+    "verified_purchase": false,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0099",
+    "product_id": "PROD0025",
+    "customer_id": "CUST0071",
+    "rating": 4.6,
+    "title": "Mixed feelings",
+    "content": "Not bad, but could be better.",
+    "date": "2025-04-09",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0100",
+    "product_id": "PROD0025",
+    "customer_id": "CUST0094",
+    "rating": 3.7,
+    "title": "Needs improvement",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-17",
+    "verified_purchase": false,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0101",
+    "product_id": "PROD0026",
+    "customer_id": "CUST0098",
+    "rating": 4.5,
+    "title": "Would not recommend",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-03-26",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0102",
+    "product_id": "PROD0026",
+    "customer_id": "CUST0099",
+    "rating": 3.8,
+    "title": "Some issues",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-22",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0103",
+    "product_id": "PROD0026",
+    "customer_id": "CUST0085",
+    "rating": 3.9,
+    "title": "Some issues",
+    "content": "Not bad, but could be better.",
+    "date": "2025-03-26",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0104",
+    "product_id": "PROD0026",
+    "customer_id": "CUST0002",
+    "rating": 4.9,
+    "title": "Great product!",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-04-12",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0105",
+    "product_id": "PROD0027",
+    "customer_id": "CUST0003",
+    "rating": 4.4,
+    "title": "Needs improvement",
+    "content": "Some issues with durability.",
+    "date": "2025-04-24",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0106",
+    "product_id": "PROD0027",
+    "customer_id": "CUST0086",
+    "rating": 4.3,
+    "title": "Works as expected",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-04-11",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0107",
+    "product_id": "PROD0027",
+    "customer_id": "CUST0095",
+    "rating": 4.9,
+    "title": "Exceeded expectations",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-30",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0108",
+    "product_id": "PROD0027",
+    "customer_id": "CUST0090",
+    "rating": 4.5,
+    "title": "Good but could be better",
+    "content": "Some issues with durability.",
+    "date": "2025-03-12",
+    "verified_purchase": true,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 5.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0109",
+    "product_id": "PROD0028",
+    "customer_id": "CUST0092",
+    "rating": 3.8,
+    "title": "Worth every penny",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-21",
+    "verified_purchase": false,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0110",
+    "product_id": "PROD0028",
+    "customer_id": "CUST0088",
+    "rating": 3.6,
+    "title": "Amazing features",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-02-19",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0111",
+    "product_id": "PROD0028",
+    "customer_id": "CUST0092",
+    "rating": 4.0,
+    "title": "Exceeded expectations",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-02-16",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0112",
+    "product_id": "PROD0028",
+    "customer_id": "CUST0096",
+    "rating": 3.7,
+    "title": "Mixed feelings",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-03-16",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0113",
+    "product_id": "PROD0029",
+    "customer_id": "CUST0087",
+    "rating": 4.8,
+    "title": "Could be improved",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-19",
+    "verified_purchase": false,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0114",
+    "product_id": "PROD0029",
+    "customer_id": "CUST0010",
+    "rating": 5.0,
+    "title": "Amazing features",
+    "content": "Could be better in some aspects.",
+    "date": "2025-03-26",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0115",
+    "product_id": "PROD0029",
+    "customer_id": "CUST0087",
+    "rating": 3.8,
+    "title": "Disappointed",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-15",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 5.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0116",
+    "product_id": "PROD0029",
+    "customer_id": "CUST0012",
+    "rating": 3.9,
+    "title": "Excellent value",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-03-22",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0117",
+    "product_id": "PROD0030",
+    "customer_id": "CUST0093",
+    "rating": 3.7,
+    "title": "Just okay",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-30",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0118",
+    "product_id": "PROD0030",
+    "customer_id": "CUST0081",
+    "rating": 4.9,
+    "title": "Disappointed",
+    "content": "Some issues with durability.",
+    "date": "2025-03-18",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0119",
+    "product_id": "PROD0030",
+    "customer_id": "CUST0077",
+    "rating": 4.7,
+    "title": "Best purchase ever",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-04-04",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0120",
+    "product_id": "PROD0030",
+    "customer_id": "CUST0028",
+    "rating": 3.5,
+    "title": "Excellent value",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-06",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0121",
+    "product_id": "PROD0031",
+    "customer_id": "CUST0044",
+    "rating": 4.9,
+    "title": "Worth every penny",
+    "content": "Some issues with durability.",
+    "date": "2025-03-07",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0122",
+    "product_id": "PROD0031",
+    "customer_id": "CUST0044",
+    "rating": 4.7,
+    "title": "Would not recommend",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-13",
+    "verified_purchase": false,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0123",
+    "product_id": "PROD0031",
+    "customer_id": "CUST0020",
+    "rating": 4.8,
+    "title": "Some issues",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-02-27",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0124",
+    "product_id": "PROD0031",
+    "customer_id": "CUST0083",
+    "rating": 5.0,
+    "title": "Just okay",
+    "content": "Exactly what I needed.",
+    "date": "2025-02-16",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0125",
+    "product_id": "PROD0032",
+    "customer_id": "CUST0017",
+    "rating": 3.7,
+    "title": "Better than expected",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-31",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0126",
+    "product_id": "PROD0032",
+    "customer_id": "CUST0023",
+    "rating": 3.8,
+    "title": "Good but could be better",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-03-28",
+    "verified_purchase": false,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0127",
+    "product_id": "PROD0032",
+    "customer_id": "CUST0008",
+    "rating": 4.5,
+    "title": "Exceeded expectations",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-23",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0128",
+    "product_id": "PROD0032",
+    "customer_id": "CUST0023",
+    "rating": 4.0,
+    "title": "Some issues",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-03-28",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0129",
+    "product_id": "PROD0033",
+    "customer_id": "CUST0028",
+    "rating": 3.8,
+    "title": "Excellent value",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-04-06",
+    "verified_purchase": false,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0130",
+    "product_id": "PROD0033",
+    "customer_id": "CUST0028",
+    "rating": 4.4,
+    "title": "Mixed feelings",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0131",
+    "product_id": "PROD0033",
+    "customer_id": "CUST0029",
+    "rating": 4.4,
+    "title": "Could be improved",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-04-12",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0132",
+    "product_id": "PROD0033",
+    "customer_id": "CUST0027",
+    "rating": 4.4,
+    "title": "Would not recommend",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-04-08",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0133",
+    "product_id": "PROD0034",
+    "customer_id": "CUST0032",
+    "rating": 5.0,
+    "title": "Fantastic quality",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-04-16",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0134",
+    "product_id": "PROD0034",
+    "customer_id": "CUST0032",
+    "rating": 4.8,
+    "title": "Could be improved",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-04-13",
+    "verified_purchase": false,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0135",
+    "product_id": "PROD0034",
+    "customer_id": "CUST0001",
+    "rating": 4.2,
+    "title": "Not worth the price",
+    "content": "Not bad, but could be better.",
+    "date": "2025-04-17",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0136",
+    "product_id": "PROD0034",
+    "customer_id": "CUST0007",
+    "rating": 4.0,
+    "title": "Mixed feelings",
+    "content": "Disappointed with the performance.",
+    "date": "2025-05-04",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0137",
+    "product_id": "PROD0035",
+    "customer_id": "CUST0019",
+    "rating": 3.8,
+    "title": "Not worth the price",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-12",
+    "verified_purchase": false,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0138",
+    "product_id": "PROD0035",
+    "customer_id": "CUST0097",
+    "rating": 4.6,
+    "title": "Exceeded expectations",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-04-16",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0139",
+    "product_id": "PROD0035",
+    "customer_id": "CUST0038",
+    "rating": 4.7,
+    "title": "Excellent value",
+    "content": "Great value for money.",
+    "date": "2025-03-17",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0140",
+    "product_id": "PROD0035",
+    "customer_id": "CUST0033",
+    "rating": 4.4,
+    "title": "Needs improvement",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-03-13",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0141",
+    "product_id": "PROD0036",
+    "customer_id": "CUST0036",
+    "rating": 4.4,
+    "title": "Solid purchase",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-03-17",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0142",
+    "product_id": "PROD0036",
+    "customer_id": "CUST0024",
+    "rating": 4.2,
+    "title": "Disappointed",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-30",
+    "verified_purchase": true,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0143",
+    "product_id": "PROD0036",
+    "customer_id": "CUST0005",
+    "rating": 4.6,
+    "title": "Great product!",
+    "content": "Some issues with durability.",
+    "date": "2025-03-12",
+    "verified_purchase": false,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0144",
+    "product_id": "PROD0036",
+    "customer_id": "CUST0041",
+    "rating": 4.2,
+    "title": "Excellent value",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-03-11",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0145",
+    "product_id": "PROD0037",
+    "customer_id": "CUST0026",
+    "rating": 5.0,
+    "title": "Good but could be better",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-05-04",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0146",
+    "product_id": "PROD0037",
+    "customer_id": "CUST0015",
+    "rating": 5.0,
+    "title": "Solid purchase",
+    "content": "Not bad, but could be better.",
+    "date": "2025-05-07",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0147",
+    "product_id": "PROD0037",
+    "customer_id": "CUST0031",
+    "rating": 3.8,
+    "title": "Great product!",
+    "content": "Could be better in some aspects.",
+    "date": "2025-04-14",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0148",
+    "product_id": "PROD0037",
+    "customer_id": "CUST0015",
+    "rating": 4.3,
+    "title": "Mixed feelings",
+    "content": "Exactly what I needed.",
+    "date": "2025-03-17",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0149",
+    "product_id": "PROD0038",
+    "customer_id": "CUST0022",
+    "rating": 4.5,
+    "title": "Not worth the price",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-23",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0150",
+    "product_id": "PROD0038",
+    "customer_id": "CUST0006",
+    "rating": 3.6,
+    "title": "Great product!",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-18",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0151",
+    "product_id": "PROD0038",
+    "customer_id": "CUST0006",
+    "rating": 3.7,
+    "title": "Could be improved",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-03-10",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0152",
+    "product_id": "PROD0038",
+    "customer_id": "CUST0035",
+    "rating": 4.7,
+    "title": "Fantastic quality",
+    "content": "Could be better in some aspects.",
+    "date": "2025-03-22",
+    "verified_purchase": false,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0153",
+    "product_id": "PROD0039",
+    "customer_id": "CUST0011",
+    "rating": 3.9,
+    "title": "Could be improved",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-04-10",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0154",
+    "product_id": "PROD0039",
+    "customer_id": "CUST0011",
+    "rating": 4.7,
+    "title": "Better than expected",
+    "content": "Great value for money.",
+    "date": "2025-04-30",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0155",
+    "product_id": "PROD0039",
+    "customer_id": "CUST0057",
+    "rating": 3.8,
+    "title": "Disappointed",
+    "content": "Great value for money.",
+    "date": "2025-02-10",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0156",
+    "product_id": "PROD0039",
+    "customer_id": "CUST0053",
+    "rating": 4.8,
+    "title": "Best purchase ever",
+    "content": "Exactly what I needed.",
+    "date": "2025-02-23",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0157",
+    "product_id": "PROD0040",
+    "customer_id": "CUST0013",
+    "rating": 4.7,
+    "title": "Just okay",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-03-26",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0158",
+    "product_id": "PROD0040",
+    "customer_id": "CUST0061",
+    "rating": 4.3,
+    "title": "Mixed feelings",
+    "content": "The build quality is exceptional.",
+    "date": "2025-03-23",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0159",
+    "product_id": "PROD0040",
+    "customer_id": "CUST0058",
+    "rating": 3.7,
+    "title": "Fantastic quality",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-21",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0160",
+    "product_id": "PROD0040",
+    "customer_id": "CUST0061",
+    "rating": 4.8,
+    "title": "Disappointed",
+    "content": "Disappointed with the performance.",
+    "date": "2025-03-23",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0161",
+    "product_id": "PROD0041",
+    "customer_id": "CUST0046",
+    "rating": 4.9,
+    "title": "Excellent value",
+    "content": "Could be better in some aspects.",
+    "date": "2025-04-14",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0162",
+    "product_id": "PROD0041",
+    "customer_id": "CUST0050",
+    "rating": 4.0,
+    "title": "Works as expected",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-05-08",
+    "verified_purchase": false,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0163",
+    "product_id": "PROD0041",
+    "customer_id": "CUST0004",
+    "rating": 3.6,
+    "title": "Works as expected",
+    "content": "Great value for money.",
+    "date": "2025-04-22",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0164",
+    "product_id": "PROD0041",
+    "customer_id": "CUST0068",
+    "rating": 3.7,
+    "title": "Solid purchase",
+    "content": "Great value for money.",
+    "date": "2025-04-14",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0165",
+    "product_id": "PROD0042",
+    "customer_id": "CUST0054",
+    "rating": 4.1,
+    "title": "Mixed feelings",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-30",
+    "verified_purchase": true,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0166",
+    "product_id": "PROD0042",
+    "customer_id": "CUST0065",
+    "rating": 3.8,
+    "title": "Exceeded expectations",
+    "content": "Some issues with durability.",
+    "date": "2025-02-28",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0167",
+    "product_id": "PROD0042",
+    "customer_id": "CUST0073",
+    "rating": 4.8,
+    "title": "Some issues",
+    "content": "Could be better in some aspects.",
+    "date": "2025-03-12",
+    "verified_purchase": false,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0168",
+    "product_id": "PROD0042",
+    "customer_id": "CUST0070",
+    "rating": 4.3,
+    "title": "Amazing features",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-04-05",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0169",
+    "product_id": "PROD0043",
+    "customer_id": "CUST0064",
+    "rating": 4.3,
+    "title": "Works as expected",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-04-09",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0170",
+    "product_id": "PROD0043",
+    "customer_id": "CUST0064",
+    "rating": 3.5,
+    "title": "Excellent value",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-02-26",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0171",
+    "product_id": "PROD0043",
+    "customer_id": "CUST0051",
+    "rating": 3.6,
+    "title": "Better than expected",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-04-19",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0172",
+    "product_id": "PROD0043",
+    "customer_id": "CUST0039",
+    "rating": 4.8,
+    "title": "Would not recommend",
+    "content": "Some issues with durability.",
+    "date": "2025-02-08",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0173",
+    "product_id": "PROD0044",
+    "customer_id": "CUST0021",
+    "rating": 3.9,
+    "title": "Works as expected",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-17",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0174",
+    "product_id": "PROD0044",
+    "customer_id": "CUST0045",
+    "rating": 3.5,
+    "title": "Solid purchase",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-02-09",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0175",
+    "product_id": "PROD0044",
+    "customer_id": "CUST0059",
+    "rating": 3.8,
+    "title": "Works as expected",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-07",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0176",
+    "product_id": "PROD0044",
+    "customer_id": "CUST0056",
+    "rating": 3.7,
+    "title": "Some issues",
+    "content": "The build quality is exceptional.",
+    "date": "2025-03-02",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0177",
+    "product_id": "PROD0045",
+    "customer_id": "CUST0080",
+    "rating": 4.0,
+    "title": "Exceeded expectations",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-03-12",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0178",
+    "product_id": "PROD0045",
+    "customer_id": "CUST0055",
+    "rating": 4.3,
+    "title": "Great product!",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-11",
+    "verified_purchase": false,
+    "helpful_votes": 8,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0179",
+    "product_id": "PROD0045",
+    "customer_id": "CUST0055",
+    "rating": 4.7,
+    "title": "Not worth the price",
+    "content": "Very satisfied with this purchase.",
+    "date": "2025-02-23",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0180",
+    "product_id": "PROD0045",
+    "customer_id": "CUST0077",
+    "rating": 4.2,
+    "title": "Amazing features",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-23",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0181",
+    "product_id": "PROD0046",
+    "customer_id": "CUST0060",
+    "rating": 3.9,
+    "title": "Worth every penny",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-03-28",
+    "verified_purchase": false,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0182",
+    "product_id": "PROD0046",
+    "customer_id": "CUST0062",
+    "rating": 3.5,
+    "title": "Not worth the price",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-02-11",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0183",
+    "product_id": "PROD0046",
+    "customer_id": "CUST0088",
+    "rating": 3.6,
+    "title": "Just okay",
+    "content": "Exactly what I needed.",
+    "date": "2025-03-14",
+    "verified_purchase": false,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0184",
+    "product_id": "PROD0046",
+    "customer_id": "CUST0090",
+    "rating": 4.2,
+    "title": "Fantastic quality",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-02-21",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0185",
+    "product_id": "PROD0047",
+    "customer_id": "CUST0052",
+    "rating": 4.3,
+    "title": "Would not recommend",
+    "content": "Not bad, but could be better.",
+    "date": "2025-04-15",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0186",
+    "product_id": "PROD0047",
+    "customer_id": "CUST0085",
+    "rating": 4.2,
+    "title": "Disappointed",
+    "content": "Disappointed with the performance.",
+    "date": "2025-04-18",
+    "verified_purchase": false,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0187",
+    "product_id": "PROD0047",
+    "customer_id": "CUST0094",
+    "rating": 3.9,
+    "title": "Better than expected",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-14",
+    "verified_purchase": false,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0188",
+    "product_id": "PROD0047",
+    "customer_id": "CUST0094",
+    "rating": 4.3,
+    "title": "Mixed feelings",
+    "content": "Great value for money.",
+    "date": "2025-02-28",
+    "verified_purchase": true,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0189",
+    "product_id": "PROD0048",
+    "customer_id": "CUST0075",
+    "rating": 4.5,
+    "title": "Some issues",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-03-27",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0190",
+    "product_id": "PROD0048",
+    "customer_id": "CUST0089",
+    "rating": 4.0,
+    "title": "Amazing features",
+    "content": "Some issues with durability.",
+    "date": "2025-03-21",
+    "verified_purchase": true,
+    "helpful_votes": 4,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0191",
+    "product_id": "PROD0048",
+    "customer_id": "CUST0037",
+    "rating": 3.7,
+    "title": "Worth every penny",
+    "content": "Some issues with durability.",
+    "date": "2025-04-09",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0192",
+    "product_id": "PROD0048",
+    "customer_id": "CUST0098",
+    "rating": 4.2,
+    "title": "Worth every penny",
+    "content": "Not bad, but could be better.",
+    "date": "2025-02-28",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 5.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0193",
+    "product_id": "PROD0049",
+    "customer_id": "CUST0066",
+    "rating": 4.9,
+    "title": "Would not recommend",
+    "content": "Exactly what I needed.",
+    "date": "2025-05-03",
+    "verified_purchase": true,
+    "helpful_votes": 3,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0194",
+    "product_id": "PROD0049",
+    "customer_id": "CUST0084",
+    "rating": 4.8,
+    "title": "Works as expected",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-05-01",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.0
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0195",
+    "product_id": "PROD0049",
+    "customer_id": "CUST0099",
+    "rating": 3.7,
+    "title": "Just okay",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-05-06",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0196",
+    "product_id": "PROD0049",
+    "customer_id": "CUST0084",
+    "rating": 4.1,
+    "title": "Worth every penny",
+    "content": "Disappointed with the performance.",
+    "date": "2025-02-08",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.1
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0197",
+    "product_id": "PROD0050",
+    "customer_id": "CUST0078",
+    "rating": 3.9,
+    "title": "Best purchase ever",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-25",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0198",
+    "product_id": "PROD0050",
+    "customer_id": "CUST0005",
+    "rating": 3.8,
+    "title": "Worth every penny",
+    "content": "Great value for money.",
+    "date": "2025-02-20",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "review_id": "REV0199",
+    "product_id": "PROD0050",
+    "customer_id": "CUST0004",
+    "rating": 3.7,
+    "title": "Needs improvement",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-03-26",
+    "verified_purchase": false,
+    "helpful_votes": 1,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0200",
+    "product_id": "PROD0050",
+    "customer_id": "CUST0078",
+    "rating": 4.7,
+    "title": "Needs improvement",
+    "content": "Could be better in some aspects.",
+    "date": "2025-04-08",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 5.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0201",
+    "product_id": "PROD0051",
+    "customer_id": "CUST0007",
+    "rating": 3.6,
+    "title": "Worth every penny",
+    "content": "The build quality is exceptional.",
+    "date": "2025-04-06",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.5
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0202",
+    "product_id": "PROD0051",
+    "customer_id": "CUST0007",
+    "rating": 4.4,
+    "title": "Exceeded expectations",
+    "content": "Not bad, but could be better.",
+    "date": "2025-02-27",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0203",
+    "product_id": "PROD0051",
+    "customer_id": "CUST0074",
+    "rating": 4.9,
+    "title": "Good but could be better",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-05-06",
+    "verified_purchase": false,
+    "helpful_votes": 16,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0204",
+    "product_id": "PROD0051",
+    "customer_id": "CUST0012",
+    "rating": 4.2,
+    "title": "Mixed feelings",
+    "content": "Really impressed with the quality and features.",
+    "date": "2025-04-01",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.1
+      }
+    ]
+  },
+  {
+    "review_id": "REV0205",
+    "product_id": "PROD0052",
+    "customer_id": "CUST0009",
+    "rating": 4.3,
+    "title": "Fantastic quality",
+    "content": "The build quality is exceptional.",
+    "date": "2025-03-29",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.7
+      }
+    ]
+  },
+  {
+    "review_id": "REV0206",
+    "product_id": "PROD0052",
+    "customer_id": "CUST0009",
+    "rating": 4.7,
+    "title": "Perfect for my needs",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-02-19",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0207",
+    "product_id": "PROD0052",
+    "customer_id": "CUST0008",
+    "rating": 4.2,
+    "title": "Amazing features",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-02-27",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0208",
+    "product_id": "PROD0052",
+    "customer_id": "CUST0083",
+    "rating": 3.8,
+    "title": "Exceeded expectations",
+    "content": "Disappointed with the performance.",
+    "date": "2025-04-16",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0209",
+    "product_id": "PROD0053",
+    "customer_id": "CUST0095",
+    "rating": 4.9,
+    "title": "Good but could be better",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-03-30",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.3
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "review_id": "REV0210",
+    "product_id": "PROD0053",
+    "customer_id": "CUST0095",
+    "rating": 4.5,
+    "title": "Solid purchase",
+    "content": "Not quite what I was looking for.",
+    "date": "2025-02-17",
+    "verified_purchase": true,
+    "helpful_votes": 5,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.6
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0211",
+    "product_id": "PROD0053",
+    "customer_id": "CUST0014",
+    "rating": 3.6,
+    "title": "Best purchase ever",
+    "content": "Good features but needs some improvements.",
+    "date": "2025-04-25",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.4
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.9
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.6
+      }
+    ]
+  },
+  {
+    "review_id": "REV0212",
+    "product_id": "PROD0053",
+    "customer_id": "CUST0096",
+    "rating": 4.0,
+    "title": "Needs improvement",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-05-05",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.2
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "review_id": "REV0213",
+    "product_id": "PROD0054",
+    "customer_id": "CUST0081",
+    "rating": 4.6,
+    "title": "Not worth the price",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-04-14",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.9
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.4
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0214",
+    "product_id": "PROD0054",
+    "customer_id": "CUST0076",
+    "rating": 3.8,
+    "title": "Worth every penny",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-02-25",
+    "verified_purchase": true,
+    "helpful_votes": 0,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.5
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "review_id": "REV0215",
+    "product_id": "PROD0054",
+    "customer_id": "CUST0017",
+    "rating": 4.1,
+    "title": "Solid purchase",
+    "content": "Not bad, but could be better.",
+    "date": "2025-04-03",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0216",
+    "product_id": "PROD0054",
+    "customer_id": "CUST0040",
+    "rating": 4.5,
+    "title": "Fantastic quality",
+    "content": "A bit pricey but worth it.",
+    "date": "2025-04-12",
+    "verified_purchase": false,
+    "helpful_votes": 19,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.2
+      },
+      {
+        "name": "Battery Life",
+        "rating": 3.0
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "review_id": "REV0217",
+    "product_id": "PROD0055",
+    "customer_id": "CUST0093",
+    "rating": 4.2,
+    "title": "Perfect for my needs",
+    "content": "Good product overall, but a bit expensive.",
+    "date": "2025-03-31",
+    "verified_purchase": true,
+    "helpful_votes": 6,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.6
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 3.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0218",
+    "product_id": "PROD0055",
+    "customer_id": "CUST0024",
+    "rating": 3.9,
+    "title": "Perfect for my needs",
+    "content": "Perfect for my needs, highly recommended.",
+    "date": "2025-02-09",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.7
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.7
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "review_id": "REV0219",
+    "product_id": "PROD0055",
+    "customer_id": "CUST0072",
+    "rating": 3.8,
+    "title": "Exceeded expectations",
+    "content": "Disappointed with the performance.",
+    "date": "2025-05-05",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 3.8
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.8
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "review_id": "REV0220",
+    "product_id": "PROD0055",
+    "customer_id": "CUST0002",
+    "rating": 4.9,
+    "title": "Works as expected",
+    "content": "Exceeded my expectations in every way.",
+    "date": "2025-03-09",
+    "verified_purchase": true,
+    "helpful_votes": 2,
+    "aspects": [
+      {
+        "name": "Quality",
+        "rating": 4.1
+      },
+      {
+        "name": "Battery Life",
+        "rating": 4.3
+      },
+      {
+        "name": "Value for Money",
+        "rating": 4.2
+      }
+    ]
+  }
+]

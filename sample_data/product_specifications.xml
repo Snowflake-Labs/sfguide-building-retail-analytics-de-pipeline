@@ -1,0 +1,1903 @@
+<?xml version="1.0" ?>
+<product_specifications>
+  <product>
+    <product_id>PROD0045</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Wood</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0062</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Fabric</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0031</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0014</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Small</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0011</product_id>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0036</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>24 hours</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0067</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i9</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0050</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Blue</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>1TB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0036</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0094</product_id>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>8GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0045</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>20x15x5cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0090</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>20x15x5cm</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Black</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0015</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0037</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 7</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0060</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0030</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Red</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0065</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0009</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i9</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>10 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0030</product_id>
+    <specification>
+      <name>Display</name>
+      <value>10 inch</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>300g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0029</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Wood</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Black</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0022</product_id>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>1TB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0076</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0025</product_id>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>White</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0092</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0041</product_id>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>500g</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0010</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0056</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>20x15x5cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0049</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Wood</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i9</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0058</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Blue</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0064</product_id>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Green</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0071</product_id>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0001</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0029</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Gray</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0085</product_id>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>24 hours</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Blue</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0028</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i9</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Red</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0015</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 7</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0077</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>8GB</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Black</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0020</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>White</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>15 inch</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0010</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>300g</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gray</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0033</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Green</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>15 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0085</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0078</product_id>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Small</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0029</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Metal</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0065</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gray</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0089</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Silver</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0029</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>10 inch</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0005</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>8GB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Metal</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0093</product_id>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0007</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0013</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0095</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Small</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0064</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0028</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0094</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gray</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0067</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0063</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>500g</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>48 hours</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0076</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>1kg</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>24 hours</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0041</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>500g</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Plastic</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>1TB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0099</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0093</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0064</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>300g</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0017</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Plastic</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0050</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0049</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>128GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0090</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>20x15x5cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0004</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Fabric</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0018</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>15 inch</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0065</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Small</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0068</product_id>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Green</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0085</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Small</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0095</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 7</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Wood</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0078</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Fabric</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>16GB</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>15 inch</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0096</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 7</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0011</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>300g</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0004</product_id>
+    <specification>
+      <name>Display</name>
+      <value>15 inch</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i7</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>8GB</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0085</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0090</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0046</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Red</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0060</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>8GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0047</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>500g</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0078</product_id>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>1TB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 7</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0051</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Fabric</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>200g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0013</product_id>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>256GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i3</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0065</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>1TB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0071</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>10x5x2cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>24 hours</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gray</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0050</product_id>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>15 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0024</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>4 hours</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>2GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0073</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>6 inch</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0021</product_id>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Metal</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>1TB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0065</product_id>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>15x10x3cm</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>32GB</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Glass</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0075</product_id>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Gold</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0036</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>8 hours</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>Intel i5</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>2kg</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0071</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Gray</value>
+    </specification>
+    <specification>
+      <name>Processor</name>
+      <value>AMD Ryzen 5</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>5 inch</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0054</product_id>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>13 inch</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>4GB</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>32GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0018</product_id>
+    <specification>
+      <name>Material</name>
+      <value>Metal</value>
+    </specification>
+    <specification>
+      <name>Display</name>
+      <value>27 inch</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Color</name>
+      <value>Black</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>300g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0060</product_id>
+    <specification>
+      <name>Size</name>
+      <value>Small</value>
+    </specification>
+    <specification>
+      <name>Dimensions</name>
+      <value>30x20x10cm</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>100g</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0029</product_id>
+    <specification>
+      <name>Storage</name>
+      <value>512GB</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Weight</name>
+      <value>500g</value>
+    </specification>
+    <specification>
+      <name>RAM</name>
+      <value>32GB</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0012</product_id>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Medium</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0077</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Green</value>
+    </specification>
+    <specification>
+      <name>Battery Life</name>
+      <value>12 hours</value>
+    </specification>
+    <specification>
+      <name>Material</name>
+      <value>Leather</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Large</value>
+    </specification>
+  </product>
+  <product>
+    <product_id>PROD0034</product_id>
+    <specification>
+      <name>Color</name>
+      <value>Black</value>
+    </specification>
+    <specification>
+      <name>Storage</name>
+      <value>64GB</value>
+    </specification>
+    <specification>
+      <name>Size</name>
+      <value>Extra Large</value>
+    </specification>
+  </product>
+</product_specifications>

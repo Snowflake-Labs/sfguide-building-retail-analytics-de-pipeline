@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone,address,created_date,last_updated
+CUST0001,David,Rodriguez,david.rodriguez323@hotmail.com,+1-730-665-7144,"5165 Pine St, Phoenix",2025-04-25 09:43:39,2025-04-05 09:43:39
+CUST0002,Robert,Davis,robert.davis773@outlook.com,+1-907-707-3614,"9472 Cedar St, Phoenix",2024-06-27 09:43:39,2025-04-27 09:43:39
+CUST0003,Emily,Miller,emily.miller271@yahoo.com,+1-818-812-3742,"3529 Oak St, New York",2025-01-03 09:43:39,2025-04-05 09:43:39
+CUST0004,Jane,Jones,jane.jones807@aol.com,+1-191-836-3824,"2842 Cedar St, Chicago",2024-07-26 09:43:39,2025-04-04 09:43:39
+CUST0005,John,Williams,john.williams668@yahoo.com,+1-329-446-9250,"1782 Main St, New York",2024-08-30 09:43:39,2025-04-03 09:43:39
+CUST0006,David,Martinez,david.martinez417@yahoo.com,+1-756-990-9061,"5985 Main St, Los Angeles",2024-12-29 09:43:39,2025-04-23 09:43:39
+CUST0007,Emily,Brown,emily.brown942@hotmail.com,+1-467-992-4898,"7203 Cedar St, Houston",2024-06-30 09:43:39,2025-04-14 09:43:39
+CUST0008,Emma,Johnson,emma.johnson492@aol.com,+1-226-103-6717,"3018 Pine St, Chicago",2025-03-23 09:43:39,2025-04-16 09:43:39
+CUST0009,Emily,Brown,emily.brown670@yahoo.com,+1-132-385-1322,"8282 Oak St, New York",2024-07-19 09:43:39,2025-04-15 09:43:39
+CUST0010,Lisa,Jones,lisa.jones259@hotmail.com,+1-880-711-8098,"8858 Pine St, Houston",2025-01-27 09:43:39,2025-04-22 09:43:39
+CUST0011,Emma,Garcia,emma.garcia297@outlook.com,+1-218-661-3042,"1264 Maple St, Chicago",2024-11-03 09:43:39,2025-04-16 09:43:39
+CUST0012,Emma,Smith,emma.smith834@yahoo.com,+1-657-666-1836,"1834 Cedar St, Phoenix",2025-03-18 09:43:39,2025-04-13 09:43:39
+CUST0013,John,Brown,john.brown834@gmail.com,+1-513-851-4511,"1049 Maple St, New York",2024-07-13 09:43:39,2025-04-11 09:43:39
+CUST0014,Lisa,Miller,lisa.miller865@aol.com,+1-382-199-1945,"2975 Cedar St, Houston",2024-11-15 09:43:39,2025-04-03 09:43:39
+CUST0015,Robert,Miller,robert.miller829@outlook.com,+1-388-427-9798,"6617 Maple St, Phoenix",2025-03-29 09:43:39,2025-03-29 09:43:39
+CUST0016,Emily,Miller,emily.miller570@yahoo.com,+1-458-375-8738,"23 Oak St, Chicago",2024-12-02 09:43:39,2025-04-07 09:43:39
+CUST0017,Michael,Jones,michael.jones999@gmail.com,+1-334-120-9377,"115 Main St, Phoenix",2024-06-16 09:43:39,2025-04-05 09:43:39
+CUST0018,Michael,Williams,michael.williams46@yahoo.com,+1-505-118-3926,"3228 Main St, Houston",2025-04-25 09:43:39,2025-04-04 09:43:39
+CUST0019,John,Williams,john.williams378@hotmail.com,+1-427-157-8057,"8789 Pine St, Los Angeles",2025-04-23 09:43:39,2025-04-02 09:43:39
+CUST0020,Sarah,Smith,sarah.smith645@outlook.com,+1-623-519-1620,"4556 Maple St, Los Angeles",2024-05-26 09:43:39,2025-04-27 09:43:39
+CUST0021,Sarah,Johnson,sarah.johnson662@gmail.com,+1-402-766-7867,"7259 Pine St, Phoenix",2024-11-10 09:43:39,2025-03-29 09:43:39
+CUST0022,Sarah,Brown,sarah.brown619@outlook.com,+1-715-938-7147,"9484 Maple St, New York",2024-12-06 09:43:39,2025-04-19 09:43:39
+CUST0023,Sarah,Martinez,sarah.martinez409@hotmail.com,+1-189-495-4621,"1913 Pine St, Houston",2025-03-13 09:43:39,2025-04-05 09:43:39
+CUST0024,John,Rodriguez,john.rodriguez828@gmail.com,+1-302-142-7939,"487 Pine St, Los Angeles",2024-09-25 09:43:39,2025-04-11 09:43:39
+CUST0025,Lisa,Brown,lisa.brown22@hotmail.com,+1-164-594-6762,"9067 Pine St, Chicago",2024-05-27 09:43:39,2025-04-28 09:43:39
+CUST0026,Robert,Davis,robert.davis655@hotmail.com,+1-750-343-1366,"1168 Main St, Houston",2024-07-16 09:43:39,2025-04-16 09:43:39
+CUST0027,John,Jones,john.jones702@aol.com,+1-437-182-6163,"6110 Maple St, Chicago",2025-02-24 09:43:39,2025-04-04 09:43:39
+CUST0028,Jane,Davis,jane.davis178@yahoo.com,+1-438-442-8212,"189 Pine St, Houston",2024-11-16 09:43:39,2025-04-06 09:43:39
+CUST0029,William,Williams,william.williams796@hotmail.com,+1-984-583-6467,"9224 Maple St, Houston",2024-08-18 09:43:39,2025-04-16 09:43:39
+CUST0030,Lisa,Johnson,lisa.johnson944@outlook.com,+1-370-629-7401,"6357 Oak St, Phoenix",2024-05-12 09:43:39,2025-04-13 09:43:39
+CUST0031,David,Miller,david.miller281@gmail.com,+1-519-619-5191,"963 Pine St, New York",2024-12-02 09:43:39,2025-04-11 09:43:39
+CUST0032,Emma,Martinez,emma.martinez452@aol.com,+1-674-737-5426,"6023 Maple St, New York",2024-07-17 09:43:39,2025-03-30 09:43:39
+CUST0033,Sarah,Rodriguez,sarah.rodriguez426@outlook.com,+1-620-641-2874,"3664 Oak St, Chicago",2025-04-16 09:43:39,2025-04-02 09:43:39
+CUST0034,John,Rodriguez,john.rodriguez801@gmail.com,+1-121-925-8536,"6179 Main St, Chicago",2024-08-15 09:43:39,2025-04-02 09:43:39
+CUST0035,Lisa,Smith,lisa.smith649@hotmail.com,+1-788-497-9919,"7428 Cedar St, Los Angeles",2025-01-11 09:43:39,2025-04-09 09:43:39
+CUST0036,Emma,Rodriguez,emma.rodriguez201@outlook.com,+1-121-699-8024,"2101 Pine St, Chicago",2025-01-08 09:43:39,2025-04-18 09:43:39
+CUST0037,John,Garcia,john.garcia413@hotmail.com,+1-416-584-5132,"422 Main St, Los Angeles",2025-02-20 09:43:39,2025-04-22 09:43:39
+CUST0038,David,Rodriguez,david.rodriguez162@gmail.com,+1-409-268-8575,"8432 Cedar St, Chicago",2024-12-13 09:43:39,2025-04-06 09:43:39
+CUST0039,William,Rodriguez,william.rodriguez45@yahoo.com,+1-193-276-2914,"2852 Pine St, Los Angeles",2024-12-30 09:43:39,2025-04-03 09:43:39
+CUST0040,Jane,Jones,jane.jones511@yahoo.com,+1-956-462-2545,"6846 Cedar St, Los Angeles",2024-10-12 09:43:39,2025-03-30 09:43:39
+CUST0041,William,Davis,william.davis240@outlook.com,+1-475-282-4314,"6346 Oak St, Phoenix",2025-02-17 09:43:39,2025-04-13 09:43:39
+CUST0042,William,Garcia,william.garcia529@outlook.com,+1-246-198-1071,"2116 Pine St, Phoenix",2024-07-22 09:43:39,2025-04-21 09:43:39
+CUST0043,Michael,Smith,michael.smith440@hotmail.com,+1-823-693-5707,"5993 Main St, Phoenix",2024-09-30 09:43:39,2025-04-22 09:43:39
+CUST0044,David,Jones,david.jones795@yahoo.com,+1-632-587-5965,"4617 Oak St, Chicago",2025-02-16 09:43:39,2025-04-24 09:43:39
+CUST0045,Emma,Davis,emma.davis8@outlook.com,+1-249-235-2095,"3067 Main St, Chicago",2024-12-16 09:43:39,2025-03-29 09:43:39
+CUST0046,Sarah,Johnson,sarah.johnson281@yahoo.com,+1-411-908-8660,"4324 Oak St, Houston",2025-02-03 09:43:39,2025-04-16 09:43:39
+CUST0047,Lisa,Miller,lisa.miller399@outlook.com,+1-881-429-7247,"6539 Cedar St, Phoenix",2024-05-06 09:43:39,2025-04-16 09:43:39
+CUST0048,Michael,Garcia,michael.garcia353@aol.com,+1-740-388-1756,"1627 Maple St, New York",2024-05-14 09:43:39,2025-03-29 09:43:39
+CUST0049,Emily,Brown,emily.brown737@yahoo.com,+1-267-938-3849,"844 Pine St, Chicago",2025-02-04 09:43:39,2025-04-11 09:43:39
+CUST0050,William,Williams,william.williams913@aol.com,+1-944-114-7398,"2061 Oak St, Houston",2024-08-09 09:43:39,2025-04-14 09:43:39
+CUST0051,Emma,Johnson,emma.johnson844@yahoo.com,+1-970-980-8072,"7216 Maple St, Chicago",2024-07-19 09:43:39,2025-04-17 09:43:39
+CUST0052,Robert,Williams,robert.williams447@aol.com,+1-940-342-4151,"115 Pine St, Chicago",2025-01-24 09:43:39,2025-04-26 09:43:39
+CUST0053,David,Rodriguez,david.rodriguez148@yahoo.com,+1-444-435-7402,"5555 Oak St, Phoenix",2024-08-31 09:43:39,2025-04-16 09:43:39
+CUST0054,John,Brown,john.brown702@aol.com,+1-269-248-4612,"4333 Main St, Chicago",2025-03-16 09:43:39,2025-04-12 09:43:39
+CUST0055,Emily,Miller,emily.miller957@aol.com,+1-937-436-8683,"5266 Pine St, Los Angeles",2024-05-06 09:43:39,2025-04-12 09:43:39
+CUST0056,Sarah,Williams,sarah.williams362@outlook.com,+1-740-865-2614,"7183 Oak St, Houston",2024-10-14 09:43:39,2025-04-12 09:43:39
+CUST0057,Michael,Williams,michael.williams518@aol.com,+1-940-834-5482,"663 Pine St, Phoenix",2024-07-10 09:43:39,2025-04-23 09:43:39
+CUST0058,Emily,Brown,emily.brown153@gmail.com,+1-997-628-9155,"2819 Oak St, Houston",2025-04-03 09:43:39,2025-04-16 09:43:39
+CUST0059,Robert,Johnson,robert.johnson651@yahoo.com,+1-494-240-4917,"4084 Main St, New York",2025-04-19 09:43:39,2025-03-31 09:43:39
+CUST0060,Jane,Brown,jane.brown505@aol.com,+1-448-409-8309,"7096 Oak St, Phoenix",2024-09-25 09:43:39,2025-03-31 09:43:39
+CUST0061,Jane,Davis,jane.davis957@outlook.com,+1-744-998-1532,"4627 Oak St, New York",2025-02-20 09:43:39,2025-04-05 09:43:39
+CUST0062,Sarah,Martinez,sarah.martinez207@hotmail.com,+1-414-153-9280,"8314 Cedar St, Phoenix",2025-01-28 09:43:39,2025-04-11 09:43:39
+CUST0063,Sarah,Rodriguez,sarah.rodriguez245@outlook.com,+1-539-892-2245,"7921 Pine St, Phoenix",2025-02-24 09:43:39,2025-04-14 09:43:39
+CUST0064,Emily,Johnson,emily.johnson472@yahoo.com,+1-669-893-2781,"1550 Oak St, Phoenix",2024-05-18 09:43:39,2025-04-09 09:43:39
+CUST0065,Sarah,Rodriguez,sarah.rodriguez438@outlook.com,+1-474-223-8151,"8962 Main St, Los Angeles",2025-03-06 09:43:39,2025-04-05 09:43:39
+CUST0066,Michael,Rodriguez,michael.rodriguez634@hotmail.com,+1-638-539-6700,"7999 Maple St, Los Angeles",2024-10-10 09:43:39,2025-04-17 09:43:39
+CUST0067,Michael,Smith,michael.smith931@hotmail.com,+1-173-284-9679,"4239 Cedar St, Los Angeles",2024-10-11 09:43:39,2025-04-08 09:43:39
+CUST0068,John,Johnson,john.johnson682@gmail.com,+1-815-544-7869,"6882 Main St, Houston",2025-03-24 09:43:39,2025-04-25 09:43:39
+CUST0069,Jane,Williams,jane.williams592@hotmail.com,+1-630-434-1175,"8963 Oak St, Phoenix",2024-08-06 09:43:39,2025-03-29 09:43:39
+CUST0070,Jane,Jones,jane.jones110@gmail.com,+1-579-353-4194,"9382 Pine St, New York",2024-09-12 09:43:39,2025-04-17 09:43:39
+CUST0071,Michael,Williams,michael.williams248@outlook.com,+1-486-703-4198,"8097 Cedar St, Phoenix",2024-06-15 09:43:39,2025-03-29 09:43:39
+CUST0072,Robert,Miller,robert.miller146@gmail.com,+1-233-656-6519,"1808 Oak St, New York",2024-06-01 09:43:39,2025-04-03 09:43:39
+CUST0073,Sarah,Johnson,sarah.johnson89@gmail.com,+1-170-661-8129,"8999 Main St, Phoenix",2024-10-24 09:43:39,2025-04-05 09:43:39
+CUST0074,Jane,Johnson,jane.johnson959@outlook.com,+1-560-449-6102,"6081 Main St, Phoenix",2025-04-19 09:43:39,2025-03-31 09:43:39
+CUST0075,William,Johnson,william.johnson112@hotmail.com,+1-864-262-8744,"3719 Pine St, New York",2025-02-10 09:43:39,2025-04-24 09:43:39
+CUST0076,Robert,Martinez,robert.martinez273@hotmail.com,+1-741-180-3223,"4723 Oak St, Chicago",2024-05-12 09:43:39,2025-04-24 09:43:39
+CUST0077,David,Martinez,david.martinez69@gmail.com,+1-366-731-1878,"4719 Cedar St, Houston",2025-02-25 09:43:39,2025-04-17 09:43:39
+CUST0078,John,Jones,john.jones604@yahoo.com,+1-394-916-1254,"2588 Oak St, Chicago",2024-11-28 09:43:39,2025-03-30 09:43:39
+CUST0079,David,Brown,david.brown127@gmail.com,+1-922-336-8562,"8835 Oak St, Chicago",2024-12-09 09:43:39,2025-04-04 09:43:39
+CUST0080,Emily,Smith,emily.smith716@aol.com,+1-422-906-6801,"8619 Pine St, Houston",2024-05-29 09:43:39,2025-04-05 09:43:39
+CUST0081,Sarah,Johnson,sarah.johnson85@gmail.com,+1-947-599-1263,"2012 Maple St, Phoenix",2025-01-06 09:43:39,2025-04-20 09:43:39
+CUST0082,Sarah,Miller,sarah.miller819@hotmail.com,+1-816-586-1157,"5460 Maple St, Phoenix",2024-09-10 09:43:39,2025-04-01 09:43:39
+CUST0083,Lisa,Martinez,lisa.martinez832@yahoo.com,+1-317-367-2595,"9223 Oak St, Los Angeles",2024-07-20 09:43:39,2025-04-02 09:43:39
+CUST0084,John,Brown,john.brown184@gmail.com,+1-939-484-4063,"6844 Cedar St, Phoenix",2025-03-22 09:43:39,2025-03-31 09:43:39
+CUST0085,Emily,Williams,emily.williams482@hotmail.com,+1-340-542-8334,"3386 Pine St, New York",2024-10-10 09:43:39,2025-04-24 09:43:39
+CUST0086,William,Williams,william.williams165@hotmail.com,+1-200-848-7089,"188 Oak St, Phoenix",2024-12-30 09:43:39,2025-03-30 09:43:39
+CUST0087,Lisa,Williams,lisa.williams356@aol.com,+1-109-164-1129,"5465 Pine St, New York",2025-04-11 09:43:39,2025-04-22 09:43:39
+CUST0088,John,Martinez,john.martinez875@gmail.com,+1-111-959-8448,"4414 Pine St, Houston",2024-10-30 09:43:39,2025-03-29 09:43:39
+CUST0089,Michael,Williams,michael.williams742@gmail.com,+1-399-536-7860,"5500 Maple St, Phoenix",2024-09-26 09:43:39,2025-04-27 09:43:39
+CUST0090,Emily,Williams,emily.williams70@yahoo.com,+1-548-902-3372,"4736 Maple St, Houston",2025-01-30 09:43:39,2025-04-15 09:43:39
+CUST0091,Michael,Rodriguez,michael.rodriguez933@aol.com,+1-862-393-2247,"1882 Main St, Los Angeles",2024-12-15 09:43:39,2025-03-30 09:43:39
+CUST0092,John,Brown,john.brown976@hotmail.com,+1-843-551-4628,"1175 Oak St, Houston",2025-01-09 09:43:39,2025-04-10 09:43:39
+CUST0093,Emma,Johnson,emma.johnson368@outlook.com,+1-524-932-2231,"5417 Cedar St, Houston",2025-02-22 09:43:39,2025-03-31 09:43:39
+CUST0094,Sarah,Garcia,sarah.garcia139@aol.com,+1-860-405-4974,"6702 Main St, Los Angeles",2024-10-06 09:43:39,2025-04-10 09:43:39
+CUST0095,Jane,Rodriguez,jane.rodriguez949@aol.com,+1-751-980-9912,"3067 Oak St, New York",2024-07-02 09:43:39,2025-04-01 09:43:39
+CUST0096,Robert,Davis,robert.davis698@hotmail.com,+1-532-951-5992,"7671 Maple St, New York",2024-08-21 09:43:39,2025-04-21 09:43:39
+CUST0097,Emma,Johnson,emma.johnson323@outlook.com,+1-829-812-8688,"8814 Pine St, New York",2024-06-15 09:43:39,2025-04-10 09:43:39
+CUST0098,Sarah,Jones,sarah.jones894@hotmail.com,+1-903-671-1608,"7500 Oak St, Phoenix",2025-03-13 09:43:39,2025-03-31 09:43:39
+CUST0099,Sarah,Garcia,sarah.garcia42@outlook.com,+1-307-288-6600,"4720 Pine St, Los Angeles",2024-07-15 09:43:39,2025-03-29 09:43:39
+CUST0100,Lisa,Martinez,lisa.martinez583@aol.com,+1-588-893-7135,"4847 Pine St, Houston",2024-10-24 09:43:39,2025-04-18 09:43:39
