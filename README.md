@@ -6,7 +6,7 @@ This solution demonstrates building a modern data engineering pipeline for retai
 
 This solution showcases building comprehensive retail analytics data pipeline, leveraging the following key Snowflake features and integrations
 
-- DB APIs for loading data from MySQL Databases. It also has the code to ingest data from Oracle and Azure SQL.
+- Snowpark DB APIs for loading data from MySQL Databases. It also has the code to ingest data from Oracle and Azure SQL.
 - Snowpark API for XML and Json loading and processing
 - Cortex APIs to extract sentiments and state names from address
 - Snowpark Pandas API for Customer Analytics
@@ -20,4 +20,5 @@ This solution showcases building comprehensive retail analytics data pipeline, l
 
 ## Step-by-Step Guide
 
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/updateit/index.html).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/building-retail-analytics-de-pipeline/index.html?index=..%2F..index#0).
+
